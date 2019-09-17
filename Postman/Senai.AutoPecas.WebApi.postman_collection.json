@@ -1,0 +1,86 @@
+{
+	"info": {
+		"_postman_id": "32896f49-6c43-44e3-96e5-f6190d1ca361",
+		"name": "Senai.AutoPecas.WebApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Pecas",
+			"item": [
+				{
+					"name": "Pecas.Listar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/pecas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"pecas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Peças.BuscarPorId",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/pecas/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"pecas",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Pecas.Cadastrar",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \"codigoDaPeca\": \"789-456yT\",\n        \"descricao\": \"Uma coisa qualquer\",\n        \"peso\": 6.0,\n        \"preçoDoCusto\": 16.0000,\n        \"preçoDaVenda\": 150.0000,\n        \"idFornecedor\": 1\n}"
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/pecas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"pecas"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

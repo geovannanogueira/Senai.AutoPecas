@@ -1,0 +1,14 @@
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.deps.json
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.runtimeconfig.json
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.dll
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\bin\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.pdb
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.RazorAssemblyInfo.cache
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.RazorAssemblyInfo.cs
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.dll
+C:\Users\43706052881\Documents\Senai 2°semestre\Sprint-2-Backend\Api\Senai.AutoPecas.WebApi\Api\Senai.AutoPecas.WebApi\Senai.AutoPecas.WebApi\obj\Debug\netcoreapp2.1\Senai.AutoPecas.WebApi.pdb
